@@ -1,4 +1,4 @@
-# TocouABoa Portfolio API
+# Portfolio API
 
 A portfolio-ready REST API for managing users, subscription plans, and user subscriptions. It uses Go, PostgreSQL, `pgx`, Google ID token authentication, and a layered architecture with handlers, services, and repositories.
 
